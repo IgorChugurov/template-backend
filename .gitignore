@@ -1,0 +1,8 @@
+build
+public/video
+config/auth.config.js
+node_modules/
+.env
+errors.log
+package-lock.json
+
